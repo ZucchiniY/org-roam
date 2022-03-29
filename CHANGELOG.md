@@ -7,6 +7,7 @@
 ### Removed
 ### Fixed
 - [#2130](https://github.com/org-roam/org-roam/pull/2130) buffer: unlinked-references section now also searches within symlinked directories
+- [#2134](https://github.com/org-roam/org-roam/issues/2134) goto: fix `org-roam-dailies-goto-today` can not goto today's note.
 
 ### Changed
 
